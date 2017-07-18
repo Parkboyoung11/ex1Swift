@@ -1,4 +1,5 @@
-    print("Hello World !")
+print("Hello World !")
+
 print()
 
 for i in 0..<12 {
